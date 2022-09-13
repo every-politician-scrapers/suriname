@@ -1,0 +1,287 @@
+{
+  "title": "Amar Ramadhin",
+  "pageID": 64595571,
+  "categories": [
+    "Living people",
+    "Surinamese politicians",
+    "Progressive Reform Party (Suriname) politicians",
+    "Surinamese physicians",
+    "Health ministers of Suriname",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amar N. Ramadhin is a Surinamese physician and as of 2020 Minister of Public Health.",
+              "links": [
+                {
+                  "text": "Surinamese",
+                  "type": "internal",
+                  "page": "Suriname"
+                },
+                {
+                  "text": "Minister of Public Health",
+                  "type": "internal",
+                  "page": "Minister of Public Health (Suriname)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amar N. Ramadhin"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Amar Ramadhin is a general practitioner by profession, and holds a docterandus title.",
+              "links": [
+                {
+                  "text": "general practitioner",
+                  "type": "internal",
+                  "page": "general practitioner"
+                },
+                {
+                  "text": "docterandus",
+                  "type": "internal",
+                  "page": "docterandus"
+                }
+              ]
+            },
+            {
+              "text": "He started teaching at the IBW University in Paramaribo."
+            },
+            {
+              "text": "In 2012, he started at the Medisch Centrum Macdonald in Paramaribo, and until 2020 worked at the General Practitioner Clinic CuraMed in Zorg en Hoop, Paramaribo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paramaribo"
+                },
+                {
+                  "text": "Zorg en Hoop",
+                  "type": "internal",
+                  "page": "Beekhuizen"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the medical staff of the Surinamese Football Association, and since 2019, a staff member of the Vereniging van Medici in Suriname (Association of Medical Professionals).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Surinamese Football Association"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1999, Ramadhin became an executive in the Progressive Reform Party (VHP).",
+              "links": [
+                {
+                  "text": "Progressive Reform Party",
+                  "type": "internal",
+                  "page": "Progressive Reform Party (Suriname)"
+                }
+              ]
+            },
+            {
+              "text": "On 16 July 2020, Ramadhin was appointed Minister of Public Health in the cabinet of Santokhi.",
+              "links": [
+                {
+                  "text": "Santokhi",
+                  "type": "internal",
+                  "page": "Chan Santokhi"
+                }
+              ]
+            },
+            {
+              "text": "On 19 July 2020, Ramadhin was temporarily appointed to head the COVID-19 management team."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Antoine Elias",
+          "lan1": "nl",
+          "template": "ill"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Amar Ramadhin"
+          },
+          "image": {
+            "text": "Amar Ramadhin 2020 - 3.PNG"
+          },
+          "caption": {
+            "text": "Ramadhin in 2020"
+          },
+          "birth_name": {
+            "text": "Amar N. Ramadhin"
+          },
+          "birth_place": {
+            "text": "Suriname",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Suriname"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Public Health",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Public Health"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "16 July 2020"
+          },
+          "predecessor1": {
+            "text": "Antoine Elias"
+          },
+          "party": {
+            "text": "Progressive Reform Party (VHP)",
+            "links": [
+              {
+                "text": "Progressive Reform Party",
+                "type": "internal",
+                "page": "Progressive Reform Party (Suriname)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "physician, politician"
+          },
+          "nationality": {
+            "text": "Suriname",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Suriname"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/27835",
+          "title": "Als wij komen... Fu du sang?",
+          "website": "Star Nieuws",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.dbsuriname.com/2016/02/16/vaarwel-beste-dokter-henk-macdonald/",
+          "title": "Vaarwel beste dokter Henk Macdonald",
+          "website": "Dagblad Suriname",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.facebook.com/pg/KliniekCuraMed/about",
+          "title": "Huisartsenkliniek CuraMed",
+          "website": "CuraMed via Facebook",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/32019",
+          "title": "Krishnadath: SVB heeft veel gedaan voor Cronie",
+          "website": "Star Nieuws",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://dwtonline.com/477537.aspx",
+          "title": "Nieuw sectiebestuur VMS wil knelpunten oplossen",
+          "website": "De Ware Tijd",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.dbsuriname.com/2020/07/10/amar-ramadhin-getipt-als-minister-van-volksgezondheid/",
+          "title": "Amar Ramadhin getipt als minister van Volksgezondheid",
+          "website": "Dagblad Suriname",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.apintie.sr/v24682",
+          "title": "Coordinatie Covid team tijdelijk in handen van minister Amar Ramadhin",
+          "website": "Apintie Radio en Televisie",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.assuria.sr/files/Overige_bestanden/zorgverleners.pdf",
+          "title": "Zorgverleners",
+          "website": "Assuria.sr",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://issuu.com/hpmedia/docs/sabaku_-_nr_47__-_april_16_-_comple",
+          "title": "Sabaku nr 47 april 16 compleet negende proef",
+          "website": "issuu",
+          "access-date": "20 July 2020",
+          "date": "April 2016",
+          "language": "nl",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/59627",
+          "title": "Het nieuwe regeerteam dat donderdag aantreedt",
+          "website": "Star Nieuws",
+          "access-date": "20 July 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "suriname-politician-stub"
+        }
+      ]
+    }
+  ]
+}
