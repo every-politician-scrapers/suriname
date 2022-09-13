@@ -1,0 +1,14 @@
+{
+    "cabinet": {
+      "id":     "Q97482082",
+      "start":  "2020-07-17",
+      "parent": "Q105688805"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Santokhi_cabinet"
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Suriname"
+    }
+}
