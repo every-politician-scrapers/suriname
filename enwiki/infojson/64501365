@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Suriname)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2010"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Chairmen of the National Assembly of Suriname"
+      ],
+      "stated_as": "Chairperson of the National Assembly of Suriname"
+    },
+    "P580": "2020-07-14",
+    "P1365": {
+      "links": [
+        "Ronnie Brunswijk"
+      ],
+      "stated_as": "Ronnie Brunswijk"
+    }
+  }
+]
