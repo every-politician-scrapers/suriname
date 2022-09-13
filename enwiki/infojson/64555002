@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Organization of American States"
+      ],
+      "stated_as": "Assistant Secretary General of Organization of American States"
+    },
+    "P580": "2005-07-19",
+    "P582": "2015-07"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Suriname)"
+      ],
+      "stated_as": "Minister of Foreign Affairs, International Business and International Cooperation"
+    },
+    "P580": "2020-07-16",
+    "P1365": {
+      "links": [
+        "Yldiz Pollack-Beighle"
+      ],
+      "stated_as": "Yldiz Pollack-Beighle"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "office": {
+      "links": [
+        "General Liberation and Development Party"
+      ],
+      "stated_as": "Leader of the General Liberation and Development Party"
+    },
+    "P580": "1990-02-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Suriname)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2005"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Chairmen of the National Assembly of Suriname"
+      ],
+      "stated_as": "Chairman of the National Assembly of Suriname"
+    },
+    "P580": "2020-06-29",
+    "P1365": {
+      "links": [
+        "Jennifer Simons"
+      ],
+      "stated_as": "Jennifer Simons"
+    },
+    "P582": "2020-07-14",
+    "P1366": {
+      "links": [
+        "Marinus Bee"
+      ],
+      "stated_as": "Marinus Bee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice President of Suriname"
+    },
+    "P1545": "8",
+    "P580": "2020-07-16",
+    "P1365": {
+      "links": [
+        "Ashwin Adhin"
+      ],
+      "stated_as": "Ashwin Adhin"
+    }
+  }
+]
