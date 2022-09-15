@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Ronnie Brunswijk (born 7 March 1961) is a Surinamese politician, businessman, footballer, former rebel leader, and the current Vice President of Suriname.",
+              "text": "Ronnie Brunswijk (born 7 March 1961) is a Surinamese politician, businessman, footballer, convicted drug trafficker, former rebel leader, and the current Vice President of Suriname.",
               "links": [
                 {
                   "text": "Surinamese",
@@ -1513,7 +1513,7 @@
               ]
             },
             {
-              "text": "Steven Brunswijk, a Dutch comedian and television personality is another nephew."
+              "text": "Steven Brunswijk, a Dutch comedian and television personality is a cousin."
             }
           ]
         }
@@ -1540,6 +1540,15 @@
           "title": "Steven Brunswijk - voorheen de 'Braboneger' - laat het schuren in 'Van slaaf tot meester'",
           "website": "Trouw",
           "access-date": "30 June 2020",
+          "language": "nl",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://panorama.nl/artikel/227020/20-vragen-aan-steven-brunswijk",
+          "title": "20 vragen aan Steven Brunswijk",
+          "website": "Panorama",
+          "access-date": "15 September 2022",
           "language": "nl",
           "template": "citation",
           "type": "news"
