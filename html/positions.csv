@@ -1,18 +1,17 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q878254,President of Suriname,Q730,Q730,Q2520544,,1975-11-25,,,,President of Suriname
-Q2520544,Vice President of Suriname,Q730,Q730,,,1988-01-26,,,,Vice President of Suriname
+Q113956843,Chairman of the National Assembly of Suriname,,,,Q2671239,,,,,
+Q104790958,Commander of the Armed Forces of Suriname,Q730,,,,,,,,Commander of the Armed Forces (Suriname)
 Q86997832,"Minister of Agriculture, Animal Husbandry and Fisheries",Q730,Q730,,Q2072040,,,,,
-Q86222395,Surinamese minister of Army and Police,,Q730,,,,,,,
 Q109120664,Minister of Defence of Suriname,Q730,Q730,,Q2797566,,,,,
 Q100715755,Minister of Economic Affairs of Suriname,Q730,Q730,,,,,,,
 Q113956819,"Minister of Education, Science and Culture",,Q730,,,,,,,
-Q113956951,"Minister of Labor, Employment and Youth Affairs",,Q730,,,,,,,
 Q113956952,Minister of Finance of Suriname,,Q730,,,,,,,
 Q18204391,Minister of Foreign Affairs,Q730,Q730,,Q2565176,,,,,Minister of Foreign Affairs (Suriname)
 Q113956931,Minister of Health of Suriname,,Q730,,,,,,,
 Q86997844,Minister of Internal Affairs,,Q730,,Q2746941,,,,,
-Q86222125,Minister of Justice of Suriname,,Q730,,,,,,,
 Q86222193,Minister of Justice and Police of Suriname,,Q730,,,,,,,
+Q86222125,Minister of Justice of Suriname,,Q730,,,,,,,
+Q113956951,"Minister of Labor, Employment and Youth Affairs",,Q730,,,,,,,
 Q113956925,Minister of Land and Forest Management,,Q730,,,,,,,
 Q113956926,Minister of Natural Resources,,Q730,,,,,,,
 Q113956934,Minister of Public Works,,Q730,,,,,,,
@@ -20,4 +19,10 @@ Q113956947,Minister of Social Affairs and Housing,,Q730,,,,,,,
 Q113956939,Minister of Spatial Planning and the Environment,,Q730,,,,,,,
 Q113964349,"Minister of Trade, Industry and Tourism",Q730,Q730,,,,,,,
 Q113956942,"Minister of Transport, Communications and Tourism",,Q730,,,,,,,
-Q113956843,Chairman of the National Assembly of Suriname,,,,Q2671239,,,,,
+Q878254,President of Suriname,Q730,Q730,Q2520544,,1975-11-25,,,,President of Suriname
+Q30625998,Surinamese Ambassador to China,,,,,,,,,List of ambassadors of Suriname to China
+Q38251700,Surinamese Ambassador to the United States,,,,,,,,,List of ambassadors of Suriname to the United States
+Q86222395,Surinamese minister of Army and Police,,Q730,,,,,,,
+Q2520544,Vice President of Suriname,Q730,Q730,,,1988-01-26,,,,Vice President of Suriname
+Q17268790,member of the National Assembly of Suriname,Q730,Q730,,,,,,,
+Q98381749,member of the States of Suriname,Q730,,,,,1980,,,
