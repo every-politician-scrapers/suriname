@@ -24,8 +24,14 @@
         {
           "sentences": [
             {
-              "text": "Chandrikapersad \"Chan\" Santokhi (born 3 February 1959) is a Surinamese politician and former police officer who is the 9th president of Suriname, since 2020.",
+              "text": "Chandrikapersad \"Chan\" Santokhi (Sarnami: चान संतोखी; ; born 3 February 1959) is a Surinamese politician and former police officer who is the 9th president of Suriname, since 2020.",
               "links": [
+                {
+                  "text": "Sarnami",
+                  "type": "internal",
+                  "page": "Caribbean Hindustani",
+                  "anchor": "Sarnami Hindustani"
+                },
                 {
                   "text": "Surinamese",
                   "type": "internal",
@@ -97,7 +103,7 @@
           "template": "marriage"
         },
         {
-          "transcription": "cɑnˈdrikaːpɛrˌsɑt sɑnˈtɔki",
+          "transcription": "cⁿd̪rikɑːpərəsɑːd̪ə sⁿt̪oːkʰiː",
           "template": "ipa"
         }
       ],
@@ -272,16 +278,29 @@
             "text": "February 3, 1959"
           },
           "birth_place": {
-            "text": "Lelydorp, Suriname",
+            "text": "Lelydorp, Suriname District, Suriname (present-day Wanica District, Suriname)",
             "links": [
               {
                 "type": "internal",
                 "page": "Lelydorp"
               },
               {
+                "text": "Suriname District",
+                "type": "internal",
+                "page": "Suriname (district)"
+              },
+              {
                 "text": "Suriname",
                 "type": "internal",
                 "page": "Suriname (Kingdom of the Netherlands)"
+              },
+              {
+                "type": "internal",
+                "page": "Wanica District"
+              },
+              {
+                "type": "internal",
+                "page": "Suriname"
               }
             ]
           },
@@ -301,6 +320,15 @@
           },
           "spouse": {
             "text": "Mellisa Kavitadevi Seenacherry (m. 18 July 2020)"
+          },
+          "awards": {
+            "text": "Honorary Order of the Yellow Star (2010)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Honorary Order of the Yellow Star"
+              }
+            ]
           },
           "nickname": {
             "text": "Sheriff",
@@ -328,6 +356,12 @@
         }
       ],
       "references": [
+        {
+          "url": "http://suriname-energy.com/en/profile/he-chandrikapersad-santokhi",
+          "title": "H.E. Chandrikapersad Santokhi",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "template": "citation",
           "type": "inline",
