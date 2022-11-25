@@ -1,23 +1,23 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q86997832,"Minister of Agriculture, Animal Husbandry and Fisheries",Q65563291,"Ministry of Agriculture, Livestock and Fishery",Q730,Q730,,
-Q109120664,Minister of Defence of Suriname,Q56260671,Ministry of Defence of Suriname,Q730,Q730,,
-Q100715755,Minister of Economic Affairs of Suriname,,,Q730,Q730,,
-Q113956819,"Minister of Education, Science and Culture",Q65589694,"Ministry of Education, Science and Culture",,Q730,,
-Q113956952,Minister of Finance of Suriname,Q56477194,Ministry of Finance of Suriname,,Q730,,
-Q18204391,Minister of Foreign Affairs,,,Q730,Q730,,
-Q113956931,Minister of Health of Suriname,Q52842741,Ministry of Health of Suriname,,Q730,,
-Q86997844,Minister of Internal Affairs,,,,Q730,,
-Q86222193,Minister of Justice and Police of Suriname,Q65563008,Ministry of Justice and Police,,Q730,,
-Q86222125,Minister of Justice of Suriname,,,,Q730,,
-Q113956951,"Minister of Labor, Employment and Youth Affairs",Q56284875,"Ministry of Labor, Employment and Youth Affairs",,Q730,,
-Q113956925,Minister of Land and Forest Management,Q97484617,Ministry of Land and Forest Management,,Q730,,
-Q113956926,Minister of Natural Resources,Q65589556,Ministry of Natural Resources,,Q730,,
-Q113956934,Minister of Public Works,Q65618954,Ministry of Public Works,,Q730,,
-Q113956947,Minister of Social Affairs and Housing,Q65615271,Ministry of Social Affairs and Housing,,Q730,,
-Q113956939,Minister of Spatial Planning and the Environment,Q97484620,Ministry of Spatial Planning and the Environment,,Q730,,
-Q113964349,"Minister of Trade, Industry and Tourism",,,Q730,Q730,,
-Q113956942,"Minister of Transport, Communications and Tourism",Q88261880,"Ministry of Transport, Communications and Tourism",,Q730,,
-Q878254,President of Suriname,,,Q730,Q730,1975,
-Q53747749,Prime Minister of Suriname,,,Q730,Q730,1949,1988
-Q86222395,Surinamese minister of Army and Police,,,,Q730,,
-Q2520544,Vice President of Suriname,,,Q730,Q730,1988,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q86997832,"Minister of Agriculture, Animal Husbandry and Fisheries",Q65563291,"Ministry of Agriculture, Livestock and Fishery",Q730,Q730,,,4
+Q109120664,Minister of Defence of Suriname,Q56260671,Ministry of Defence of Suriname,Q730,Q730,,,6
+Q100715755,Minister of Economic Affairs of Suriname,,,Q730,Q730,,,3
+Q113956819,"Minister of Education, Science and Culture",Q65589694,"Ministry of Education, Science and Culture",,Q730,,,2
+Q113956952,Minister of Finance of Suriname,Q56477194,Ministry of Finance of Suriname,,Q730,,,1
+Q18204391,Minister of Foreign Affairs,,,Q730,Q730,,,19
+Q113956931,Minister of Health of Suriname,Q52842741,Ministry of Health of Suriname,,Q730,,,1
+Q86997844,Minister of Internal Affairs,,,,Q730,,,2
+Q86222193,Minister of Justice and Police of Suriname,Q65563008,Ministry of Justice and Police,,Q730,,,4
+Q86222125,Minister of Justice of Suriname,,,,Q730,,,2
+Q113956951,"Minister of Labor, Employment and Youth Affairs",Q56284875,"Ministry of Labor, Employment and Youth Affairs",,Q730,,,2
+Q113956925,Minister of Land and Forest Management,Q97484617,Ministry of Land and Forest Management,,Q730,,,2
+Q113956926,Minister of Natural Resources,Q65589556,Ministry of Natural Resources,,Q730,,,1
+Q113956934,Minister of Public Works,Q65618954,Ministry of Public Works,,Q730,,,1
+Q113956947,Minister of Social Affairs and Housing,Q65615271,Ministry of Social Affairs and Housing,,Q730,,,1
+Q113956939,Minister of Spatial Planning and the Environment,Q97484620,Ministry of Spatial Planning and the Environment,,Q730,,,1
+Q113964349,"Minister of Trade, Industry and Tourism",,,Q730,Q730,,,2
+Q113956942,"Minister of Transport, Communications and Tourism",Q88261880,"Ministry of Transport, Communications and Tourism",,Q730,,,1
+Q878254,President of Suriname,,,Q730,Q730,1975,,9
+Q53747749,Prime Minister of Suriname,,,Q730,Q730,1949,1988,17
+Q86222395,Surinamese minister of Army and Police,,,,Q730,,,1
+Q2520544,Vice President of Suriname,,,Q730,Q730,1988,,9
