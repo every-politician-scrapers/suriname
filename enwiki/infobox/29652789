@@ -1,21 +1,4 @@
 {
-  "embed": "yes",
-  "header-color": "lavende",
-  "position": "Midfielder",
-  "currentclub": "Inter Moengotapoe (captain)",
-  "clubnumber": "61",
-  "years1": "1987–2011",
-  "clubs1": "Inter Moengotapoe",
-  "years2": "2021–",
-  "clubs2": "Inter Moengotapoe",
-  "manageryears1": "2002–2011",
-  "managerclubs1": "Inter Moengotapoe (player-owner)",
-  "manageryears2": "2011–2021",
-  "managerclubs2": "Inter Moengotapoe (owner)",
-  "manageryears3": "2021–",
-  "managerclubs3": "Inter Moengotapoe (player-owner)"
-}
-{
   "name": "Ronnie Brunswijk",
   "birth_date": "March 7, 1961",
   "order1": "8th",
