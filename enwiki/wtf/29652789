@@ -187,32 +187,76 @@
           "template": "marriage"
         },
         {
-          "template": "infobox",
-          "type": "football biography",
-          "data": {
-            "embed": {},
-            "header-color": {},
-            "position": {},
-            "currentclub": {},
-            "clubnumber": {},
-            "years1": {},
-            "clubs1": {},
-            "years2": {},
-            "clubs2": {},
-            "manageryears1": {},
-            "managerclubs1": {},
-            "manageryears2": {},
-            "managerclubs2": {},
-            "manageryears3": {},
-            "managerclubs3": {}
-          }
-        },
-        {
           "transcription": "ˈrɔni ˈbrʏnsʋɛik",
           "template": "ipa"
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "header-color": {
+            "text": "lavende"
+          },
+          "position": {
+            "text": "Midfielder",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Midfielder"
+              }
+            ]
+          },
+          "currentclub": {
+            "text": "Inter Moengotapoe (captain)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Inter Moengotapoe"
+              },
+              {
+                "text": "captain",
+                "type": "internal",
+                "page": "Captain (association football)"
+              }
+            ]
+          },
+          "clubnumber": {
+            "text": "61",
+            "number": 61
+          },
+          "years1": {
+            "text": "1987–2011"
+          },
+          "clubs1": {
+            "text": "Inter Moengotapoe"
+          },
+          "years2": {
+            "text": "2021–"
+          },
+          "clubs2": {
+            "text": "Inter Moengotapoe"
+          },
+          "manageryears1": {
+            "text": "2002–2011"
+          },
+          "managerclubs1": {
+            "text": "Inter Moengotapoe (player-owner)"
+          },
+          "manageryears2": {
+            "text": "2011–2021"
+          },
+          "managerclubs2": {
+            "text": "Inter Moengotapoe (owner)"
+          },
+          "manageryears3": {
+            "text": "2021–"
+          },
+          "managerclubs3": {
+            "text": "Inter Moengotapoe (player-owner)"
+          }
+        },
         {
           "name": {
             "text": "Ronnie Brunswijk"
