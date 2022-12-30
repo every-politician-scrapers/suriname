@@ -1,0 +1,29 @@
+position,positionLabel,country,countryLabel,jurisdiction,jurisdictionLabel,inception,abolished,predecessor,predecessorLabel,successor,successorLabel,deputy,deputyLabel,list,listLabel
+Q878254,President of Suriname,Q730,Suriname,Q730,Suriname,1975-11-25,,,,,,Q2520544,Vice President of Suriname,,
+Q2520544,Vice President of Suriname,Q730,Suriname,Q730,Suriname,1988-01-26,,,,,,,,,
+Q17268790,member of the National Assembly of Suriname,Q730,Suriname,Q730,Suriname,,,,,,,,,,
+Q18204391,Minister of Foreign Affairs,Q730,Suriname,Q730,Suriname,,,,,,,,,Q2565176,list of Surinamese ministers of Foreign Affairs
+Q30625998,Surinamese Ambassador to China,,,,,,,,,,,,,,
+Q38251700,Surinamese Ambassador to the United States,,,,,,,,,,,,,,
+Q53747749,Prime Minister of Suriname,Q730,Suriname,Q730,Suriname,1949-06-01,1988-01-26,,,,,,,Q1419126,list of Prime Ministers of Suriname
+Q86222125,Minister of Justice of Suriname,,,Q730,Suriname,,,,,,,,,,
+Q86222193,Minister of Justice and Police of Suriname,,,Q730,Suriname,,,,,,,,,,
+Q86222395,Surinamese minister of Army and Police,,,Q730,Suriname,,,,,,,,,,
+Q86997832,"Minister of Agriculture, Animal Husbandry and Fisheries",Q730,Suriname,Q730,Suriname,,,,,,,,,Q2072040,Q2072040
+Q86997844,Minister of Internal Affairs,,,Q730,Suriname,,,,,,,,,Q2746941,Q2746941
+Q98381749,member of the States of Suriname,Q19901436,Suriname,,,,1980-01-01,,,,,,,,
+Q100715755,Minister of Economic Affairs of Suriname,Q730,Suriname,Q730,Suriname,,,,,,,,,,
+Q104790958,Commander of the Armed Forces of Suriname,Q730,Suriname,,,,,,,,,,,,
+Q109120664,Minister of Defence of Suriname,Q730,Suriname,Q730,Suriname,,,,,,,,,Q2797566,list of Ministers of Defence of Suriname
+Q113956819,"Minister of Education, Science and Culture",,,Q730,Suriname,,,,,,,,,,
+Q113956843,Chairman of the National Assembly of Suriname,,,,,,,,,,,,,Q2671239,list of Chairmen of the National Assembly of Suriname
+Q113956925,Minister of Land and Forest Management,,,Q730,Suriname,,,,,,,,,,
+Q113956926,Minister of Natural Resources,,,Q730,Suriname,,,,,,,,,,
+Q113956931,Minister of Health of Suriname,,,Q730,Suriname,,,,,,,,,,
+Q113956934,Minister of Public Works,,,Q730,Suriname,,,,,,,,,,
+Q113956939,Minister of Spatial Planning and the Environment,,,Q730,Suriname,,,,,,,,,,
+Q113956942,"Minister of Transport, Communications and Tourism",,,Q730,Suriname,,,,,,,,,,
+Q113956947,Minister of Social Affairs and Housing,,,Q730,Suriname,,,,,,,,,,
+Q113956951,"Minister of Labor, Employment and Youth Affairs",,,Q730,Suriname,,,,,,,,,,
+Q113956952,Minister of Finance of Suriname,,,Q730,Suriname,,,,,,,,,,
+Q113964349,"Minister of Trade, Industry and Tourism",Q730,Suriname,Q730,Suriname,,,,,,,,,,
