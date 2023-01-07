@@ -256,6 +256,19 @@
           "term_start5": {
             "text": "1 July 2022"
           },
+          "term_end5": {
+            "text": "31 December 2022"
+          },
+          "successor5": {
+            "text": "Philip Davis",
+            "links": [
+              {
+                "text": "Philip Davis",
+                "type": "internal",
+                "page": "Philip Davis (Bahamian politician)"
+              }
+            ]
+          },
           "predecessor5": {
             "text": "Johnny Briceño",
             "links": [
